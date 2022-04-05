@@ -1,6 +1,8 @@
 # spring4shell-poc
 1) checkout the code in local using below link:
 
+    git clone https://github.com/saikrishnasaski/spring4shell-poc.git
+
 2) Download Apache Tomcat and setup in local. I have used 9.0.56 version. We can use any version below 9.0.60 to exploit.
 
 3) Build the application in local and copy the war file to Tomcat webapps folder.
